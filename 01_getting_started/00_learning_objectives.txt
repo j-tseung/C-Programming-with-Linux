@@ -1,0 +1,11 @@
+Learning outcomes
+Welcome to C Programming: Getting Started! In this course, you will learn the principles of C programming and start coding hands-on in a browser tool that will provide instant feedback on your code.
+
+In this course, you will get started with C and learn how to write your first programs, how to make simple computations and print the results to the screen, how to store values in variables and how to repeat instructions using loops. 
+
+At the end of this course, you will be able to:
+
+Define, distinguish and give examples of hardware/software, computer programs/algorithms
+Explain the concept of a variable and declare, initialize and modify variables of data types int, double and character
+Create and comment simple C-programs that may print text, special characters and variables to the screen with controlled formatting
+Create simple C-programs that utilize for-loops to repeat blocks of instructions
