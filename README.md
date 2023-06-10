@@ -16,3 +16,10 @@ Courses in this Program:
 5. C Programming: Advanced Data Types
 6. Linux Basics: The Command Line Interface
 7. C Programming: Using Linux Tools and Libraries
+
+## Disclaimer
+
+I believe in the importance of academic honesty and ethical coding practices.
+
+The code provided in this repository includes prompts and exercises that I have completed as part of my learning journey to demonstrate my progress and understanding. Please note that while I have used prompts from the course, it is to ensure that I have a record of the topics covered and is not intended to claim as my own nor is for redistribution. 
+
