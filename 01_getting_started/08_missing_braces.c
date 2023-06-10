@@ -1,7 +1,8 @@
 /*
 Activity: correct simple errors in loops with missing braces
 
-Our developer has written a program, but some of the code is missing! Can you help fix the code?
+Our developer has written a program, but some of the code is missing! Can you help 
+fix the code?
 
 #include <stdio.h>
 

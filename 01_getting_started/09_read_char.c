@@ -1,7 +1,8 @@
 /*
 Activity: read characters
 
-Write a C-program that reads an input character (using scanf) and displays the following pyramid pattern using the character read: 
+Write a C-program that reads an input character (using scanf) and displays the 
+following pyramid pattern using the character read: 
 
 Examples
 Input

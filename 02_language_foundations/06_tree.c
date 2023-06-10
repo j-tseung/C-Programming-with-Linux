@@ -1,7 +1,11 @@
 /*
 Activity: if statements, name that tree
 
-As you cross a forest you can't help but admire the nature around you including the many species of trees. Despite your interest, you are a very unskilled botanist and have a lot of trouble identifying different trees. A friend gives you some guidance and you decide to write a program that will give you the name of the tree based on its characteristics.
+As you cross a forest you can't help but admire the nature around you including the 
+many species of trees. Despite your interest, you are a very unskilled botanist and 
+have a lot of trouble identifying different trees. A friend gives you some guidance 
+and you decide to write a program that will give you the name of the tree based on its 
+characteristics.
 
 There are 4 types of trees:
 
