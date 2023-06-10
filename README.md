@@ -1,4 +1,4 @@
-# C Programming With Linux
+# c_programming_with_linux
 
 [C Programming with Linux Professional Certificate | edX](https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux)
 
