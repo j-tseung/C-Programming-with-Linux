@@ -1,0 +1,15 @@
+Learning outcomes
+In this course, third course of the C Programming with Linux Professional Certificate program,  you will be introduced to the concept of modular programming: that is, dividing up more complex tasks into manageable pieces.
+
+You will learn how to write your own functions (just like functions in mathematics for example). You will also gain insight into a computer's architecture and learn how its memory is organized.
+
+Given the vast amount of memory computers have these days, how does your program remember where a certain variable is stored? This brings about the important topic of how memory is efficiently addressed inside a computer, and with it, the topic of pointers. 
+
+Pointers are often considered the most difficult part and main struggle for C program developers. We will introduce you to this central topic with our novel and innovative visualization tools and show you precisely how pointers work. No need to struggle!
+
+At the end of this course, you will be able to:
+
+Break a complex programming task into a number of functions to which you pass arguments
+Recall how computer memory is organized to store variables and arrays
+Find the address of a variable 
+Perform simple pointer arithmetic
